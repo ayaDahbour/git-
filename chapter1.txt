@@ -1,1 +1,2 @@
 Once upon a time, in a town named 'Init', lived an enthusiastic explorer named Git.
+More details in chapter 1.
